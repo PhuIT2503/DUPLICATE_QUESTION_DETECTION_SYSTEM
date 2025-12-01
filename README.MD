@@ -58,14 +58,15 @@ DUPLICATE_QUESTION_DETECTION_SYSTEM/
 Dự án này được phát triển bởi nhóm sinh viên trường Đại học Giao thông Vận tải TP.HCM (UTH) nhằm mục đích nghiên cứu khoa học/đồ án môn học.
 
 **Thành viên nhóm:**
-Họ tên	Vai trò	Đóng góp chính
-Phan Quyết Tâm Phú	AI Developer	Thiết kế và triển khai AI Service, xây dựng API cho AI, quản lý log dữ liệu và tích hợp AI với Backend Spring Boot
-Nguyễn Gia Huy	Backend	QuestionController
-Hoàng Nguyễn Viết Quốc	Backend	Auth, User, SubjectController
-Nguyễn Thanh Phúc Tuỷ	Frontend	Auth, Dashboard
-Nguyễn Thái Tuấn	Frontend	Quản lý câu hỏi
-Huỳnh Bá Thành	Frontend	Đề thi, Thống kê
-Lục Sỹ Minh Hiền	Backend	Exam, ReportController
+| Họ tên                 | Vai trò      | Đóng góp chính                                                                                                     |
+| :--------------------- | :----------- | :----------------------------------------------------------------------------------------------------------------- |
+| Phan Quyết Tâm Phú     | AI Developer | Thiết kế và triển khai AI Service, xây dựng API cho AI, quản lý log dữ liệu và tích hợp AI với Backend Spring Boot |
+| Nguyễn Gia Huy         | Backend      | QuestionController                                                                                                 |
+| Hoàng Nguyễn Viết Quốc | Backend      | Auth, User, SubjectController                                                                                      |
+| Nguyễn Thanh Phúc Tuỷ  | Frontend     | Auth, Dashboard                                                                                                    |
+| Nguyễn Thái Tuấn       | Frontend     | Quản lý câu hỏi                                                                                                    |
+| Huỳnh Bá Thành         | Frontend     | Đề thi, Thống kê                                                                                                   |
+| Lục Sỹ Minh Hiền       | Backend      | Exam, ReportController                                                                                             |
 
 Repository này là bản lưu trữ (fork/clone) cá nhân của tôi để phục vụ mục đích lưu trữ Portfolio và trình bày kỹ thuật.
 
