@@ -1,0 +1,6 @@
+fastapi
+sentence-transformers
+numpy
+scikit-learn
+pyodbc
+pydantic
