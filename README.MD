@@ -71,6 +71,6 @@ Dự án này được phát triển bởi nhóm sinh viên trường Đại h�
 Repository này là bản lưu trữ (fork/clone) cá nhân của tôi để phục vụ mục đích lưu trữ Portfolio và trình bày kỹ thuật.
 
 ## Liên hệ
+- Author: Phan Quyết Tâm Phú
 - Email: tamphu.workhard@gmail.com
-- GitHub: https://github.com/PhuIT2503
 - LinkedIn: https://www.linkedin.com/in/phu-phanquyettam/
