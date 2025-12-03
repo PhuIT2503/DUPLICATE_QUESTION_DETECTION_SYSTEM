@@ -25,7 +25,7 @@ Hệ thống được thiết kế theo mô hình **Service-Oriented Architectur
 | :--------------- | :--------------------------- | :---------------------------------------------------------- |
 | **Frontend**     | ReactJS + Vite + TailwindCSS | Giao diện người dùng tương tác cao, Responsive.             |
 | **Backend Core** | Java Spring Boot             | Xử lý logic nghiệp vụ, quản lý User, Exam, kết nối DB.      |
-| **AI Service**   | Python Flask + BERT  | Microservice chuyên biệt để xử lý NLP và so khớp trùng lặp. |
+| **AI Service**   | Python FastAPI + BERT  | Microservice chuyên biệt để xử lý NLP và so khớp trùng lặp. |
 | **Database**     | Microsoft SQL Server         | Lưu trữ dữ liệu quan hệ (Users, Questions, Exams...).       |
 
 ### Luồng xử lý AI (AI Pipeline):
